@@ -210,8 +210,6 @@ const AnimationSwipe = (card, currentPosition, setIndex, sign) => {
   card.style.opacity = 0;
   card.style.transition = '.2s opacity linear, .2s left linear';
 
-  console.log(card.style.left);
-
   // Remove card after 200 ms
   setTimeout(() => {
     cardData.pop();
