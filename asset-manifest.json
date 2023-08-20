@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-swiper-card/static/css/main.e201a70a.css",
+    "main.js": "/react-swiper-card/static/js/main.7dd6892d.js",
+    "index.html": "/react-swiper-card/index.html",
+    "main.e201a70a.css.map": "/react-swiper-card/static/css/main.e201a70a.css.map",
+    "main.7dd6892d.js.map": "/react-swiper-card/static/js/main.7dd6892d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e201a70a.css",
+    "static/js/main.7dd6892d.js"
+  ]
+}
